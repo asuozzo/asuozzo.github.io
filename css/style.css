@@ -27,7 +27,7 @@ h3 {
 }
 
 .text-container {
-    padding-top:100px;
+    padding-top:20px;
     padding-bottom: 50px;
     max-width:500px;
     margin:auto;
@@ -55,6 +55,13 @@ ul.work-list > li {
 .work-description {
     color:#bdbdbd;
     display:block;
+}
+
+a.anchor {
+    display:block;
+    position:relative;
+    top:-70px;
+    visibility: hidden;
 }
 
 /*
@@ -107,34 +114,34 @@ nav li a {
 }
 
 /* Screens Settings */
-#home {
+#home-section {
 	background: #2F2760;
 }
 
-#about {
+#about-section {
     background: #ffb647;
     color: #000;
 }
 
-#about a {
+#about-section a {
     color: #0E6AB2
 }
 
-#work {
+#work-section {
     background: #B22B72;
     color: #000;
 
 }
 
-#work a {
+#work-section a {
     color: #ADE520
 }
 
-#contact {
+#contact-section {
     background: #43b29d;
 }
 
-#contact a {
+#contact-section a {
     color: #7140CC;
 }
 
@@ -161,11 +168,11 @@ section {
     }
 
     .sub-header {
-        padding-top:100px;
+        padding-top:20px;
     }
 
     .text-container {
-        padding-top:100px;
+        padding-top:10px;
         padding-left:20px;
         padding-right:20px;
     }
