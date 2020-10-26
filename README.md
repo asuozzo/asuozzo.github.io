@@ -1,1 +1,1 @@
-# asuozzo.github.io
+[andreasuozzo.com]
