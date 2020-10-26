@@ -1,1 +1,1 @@
-(andreasuozzo.com)x
+[andreasuozzo.com](https://andreasuozzo.com)
