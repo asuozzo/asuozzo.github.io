@@ -22,7 +22,7 @@ h3 {
 }
 
 .header-container {
-    padding:200px;
+    padding:100px;
     padding-bottom: 10px;
 }
 
@@ -160,9 +160,13 @@ section {
     min-height: 100vh;
 }
 
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 600px) {
 
-	nav li {
+    h1 {
+        font-size:2em;
+    }
+    
+    nav li {
 		padding: 24px 4px;
 	}
 
