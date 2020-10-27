@@ -162,6 +162,9 @@ section {
 
 @media only screen and (max-width: 600px) {
 
+    .header-container {
+        padding-top:60px !important;
+    }
     h1 {
         font-size:2em;
     }
